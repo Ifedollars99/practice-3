@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpokemon_app"]=self["webpackChunkpokemon_app"]||[]).push([[594],{636:function(n,u,a){a.r(u),a.d(u,{default:function(){return l}});var e=a(641),r=a(33);const s={class:"about"};function t(n,u){return(0,e.uX)(),(0,e.CE)("div",s,[u[0]||(u[0]=(0,e.Lk)("h1",null,"This is an about page",-1)),(0,e.Lk)("h3",null,(0,r.v_)(n.$route.params.slug),1)])}var o=a(262);const p={},c=(0,o.A)(p,[["render",t]]);var l=c}}]);
+//# sourceMappingURL=about.deedbf9a.js.map
